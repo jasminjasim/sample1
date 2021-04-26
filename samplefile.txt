@@ -1,3 +1,11 @@
 hi hello how are you??
 speaker2 : iam fine....
+<<<<<<< HEAD
 helloooooooooo
+=======
+
+where r u going
+going somewhere
+
+
+>>>>>>> master1
