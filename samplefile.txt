@@ -1,11 +1,8 @@
 hi hello how are you??
 speaker2 : iam fine....
-<<<<<<< HEAD
-helloooooooooo
-=======
+where are you going ????
+i am going to market
 
-where r u going
-going somewhere
+helloooooooo
 
-
->>>>>>> master1
+tell meee how many members are tere
