@@ -4,3 +4,8 @@ where are you going ????
 i am going to market
 
 helloooooooo
+<<<<<<< HEAD
+=======
+
+tell meee how many members are tere
+>>>>>>> master1
